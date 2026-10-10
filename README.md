@@ -1,5 +1,1 @@
-# Закрывающий тег
-
-Проектная работа четвёртого спринта: страница с воспоминаниями о пройденном пути в вёрстке.
-
-Сайт: https://swedenbug.github.io/zakrivayuschiy-teg-f/
+https://swedenbug.github.io/zakrivayuschiy-teg-f/

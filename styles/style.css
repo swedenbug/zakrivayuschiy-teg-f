@@ -89,7 +89,7 @@
 }
 
 .card__image_filter_hue {
-  filter: hue-rotate(45deg);
+  filter: hue-rotate(-15deg);
 }
 
 .card__image_filter_brightness {

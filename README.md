@@ -1,1 +1,1 @@
-https://github.com/username/zakrivayuschiy-teg-f
+https://github.com/swedenbug/zakrivayuschiy-teg-f
